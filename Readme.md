@@ -4,7 +4,7 @@ This repo contains smart contracts to implement the Staking functionality in an 
 
 -> Solidity is used to implement this projects
 
-This repo contains 3 smart contracts which defines 3 contracts
+This repo contains 3 smart contract:
 
 1. A NFT Collection Smart Contract which is developed using ERC721 protocol (Collection.sol)
 2. Reward token smart contract is developed using the ERC20 protocol (RewardToken.sol)
